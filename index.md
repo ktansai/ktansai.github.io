@@ -30,12 +30,12 @@
   - スマホ内の接触通知ログを解析し、2週間以内のCOCOA陽性登録者が近くにいた回数を表示するWebツール
 - [Clova 爆弾ゲーム](https://www.youtube.com/watch?v=_-OMFKiUvTU)
   - LINEスマートスピーカー Clova上で動作するゲームスキル
-- [次の電車の時間を表示するデバイス | 趣味TECHオンライン](https://www.shumi-tech.online/entry/2019/03/13/M5Stack%E3%81%A7%E3%80%8C%E3%81%82%E3%81%A8%E4%BD%95%E5%88%86%E3%81%A7%E9%9B%BB%E8%BB%8A%E3%81%8C%E6%9D%A5%E3%82%8B%E3%81%8B%E3%80%8D%E3%81%8C%E5%88%86%E3%81%8B%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7)
+- [次の電車の時間を表示するデバイス/趣味TECHオンライン](https://www.shumi-tech.online/entry/2019/03/13/M5Stack%E3%81%A7%E3%80%8C%E3%81%82%E3%81%A8%E4%BD%95%E5%88%86%E3%81%A7%E9%9B%BB%E8%BB%8A%E3%81%8C%E6%9D%A5%E3%82%8B%E3%81%8B%E3%80%8D%E3%81%8C%E5%88%86%E3%81%8B%E3%82%8B%E3%82%AC%E3%82%B8%E3%82%A7)
 - [2019年までの制作まとめ](https://twitter.com/i/events/1160950635463958528)
 
 ## Favorite
 - 3Dプリンタ / DIY
-  - [自宅3Dプリンタ環境 試行錯誤記録 | note](https://note.com/ktansai/n/n3bd73ec60207)
+  - [自宅3Dプリンタ環境 試行錯誤記録 \| note](https://note.com/ktansai/n/n3bd73ec60207)
   - [最近作ったもの | Twitter](https://twitter.com/search?q=%23%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%94%E3%83%83%E3%82%BF%E3%83%AA%20%40ktansai&src=typed_query&f=top)
   - [Thingiverse](https://www.thingiverse.com/ktansai/designs)
 - カメラ

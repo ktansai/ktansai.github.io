@@ -4,7 +4,7 @@
 
 
 ## Work
-- フォトグラファー フリーランス (2021-)
+- フォトグラファー フリーランス/[Our-Photo](https://our-photo.co/photographers/ktansai) (2021-)
 - WHILL inc. ソフトウェアエンジニア(2019-)
 - Sony R&Dセンター ソフトウェアエンジニア(2018-2019)
 
